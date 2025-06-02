@@ -56,6 +56,7 @@ I Like to Learn python language And Explore.
 ## 📌 How to Run
 
 Open terminal or command prompt and run:
+```bash
 python task1.py
 python task2.py
 
